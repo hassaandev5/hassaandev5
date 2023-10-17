@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [hassaandev.vercel.app](hassaandev.vercel.app)
-
 - 💬 Ask me about **JavaScript, Node, React**
 
 - 📫 How to reach me **hassaan.dev5@gmail.com**
