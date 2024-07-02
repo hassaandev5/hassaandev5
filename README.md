@@ -4,6 +4,25 @@
 
 <p align="center">「 I am a full stack web application developer 」</p>
 
+<p align="center">
+ <a href="https://hassaandev5.vercel.app/" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="hassaandev5" />
+ </a>
+<!--  <a href="https://linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="hassaandev5"/>
+ </a>
+ <a href="https://twitter.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="hassaandev5" />
+ </a> 
+ <a href="https://facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="hassaandev5"  />
+  </a> -->
+</p>
+<!-- <br /> -->
+
 ###
 
 <div align="center">
