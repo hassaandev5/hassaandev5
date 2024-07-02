@@ -5,7 +5,7 @@
 <p align="center">「 I am a full stack web application developer 」</p>
 
 <p align="center">
- <a href="https://hassaandev5.vercel.app/" target="blank">
+ <a href="https://hassaandev5.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="hassaandev5" />
  </a>
 <!--  <a href="https://linkedin.com/" target="_blank">
