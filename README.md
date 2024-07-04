@@ -36,7 +36,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/H-Logo.gif" alt="Branding" />
+ <img align="right" width="350" src="/assets/H-Logo-v2.gif" alt="Branding" />
   
  🚀 &emsp; Passionate about programming and sharing knowledge <br/><br/>
  💻 &emsp; Enjoy writing code and exploring new technologies <br/><br/>
